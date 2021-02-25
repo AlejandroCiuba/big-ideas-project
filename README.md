@@ -1,9 +1,10 @@
 # big-ideas-project
 The two week project for big ideas
 
-Group Names:
-Alejandro Ciuba
-Daniel Mezinhsky
-Sean Li
+## Project Description:
+The Python Script takes the user's name and age (as an integer). Then, it formats the name and displays the name and how long (approxiamately) that person has been alive in months.
 
-Project Description
+## Group Names:
+- Alejandro Ciuba
+- Daniel Mezinhsky
+- Sean Li
