@@ -1,5 +1,5 @@
 # big-ideas-project
-## Group Names:
+## Main Contributors:
 - Alejandro Ciuba
 - Daniel Mezinhsky
 - Siliang Lihuang
