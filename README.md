@@ -4,6 +4,7 @@
 - Daniel Mezinhsky
 - Siliang Lihuang
 
+
 ## Project Description:
 The program takes in the user's name and date of birth. Then, after taking in the current date afterwards, producing an estimate for how long that person has been alive in terms of years, months and then the days they have been alive too.
 
@@ -23,3 +24,4 @@ If you wish to contribute, please fork this directory and make any changes and/o
 
 ## License and Code of Conduct:
 We chose the MIT License because we wanted to give anyone who accessed our repo full rights to do whatever they want with their forked repos. As well as make any changes they want to submit to the main repo without the hassling of copyright. We also made our Code of Conduct very lenient to allow for as much room for change as possible as the project is very small and we want to encourage others to help us. We believe these two things would make our project very fun and enjoyable to work on while allowing us some control over what gets added to the main project repo and thus, the main product.
+
