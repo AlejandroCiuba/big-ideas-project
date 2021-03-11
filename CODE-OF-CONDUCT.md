@@ -1,7 +1,7 @@
 # Code of Conduct:
 
 While we want everyone to contribute freely to our code, we also must ensure that we have a safe and open environment for everyone to contribute our code.
-For a tolerant work environment, we will not accepted intolerance. Therefore:
+For a productive work environment, there shall not be any intolerance under the following policies:
 
 - All code must not have any comments that can be seen as derogatory and/or hurtful towards either the original contributor or other contributors.
 - Comments should be used to explain parts of the code, or give insight to why you wrote the code the way you did.
